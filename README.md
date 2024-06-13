@@ -11,11 +11,11 @@
 # 如果 data 大於 0，則有兩個解，在一行內依照從大到小順序輸出方程式的兩個解，用空格分隔，結果保留2位小數。
 ![2個解](https://github.com/NE0427/report2/assets/113665352/d57311f4-c39e-41aa-96dc-22bcfd21e775)
 
-#實例:顯示Data Error
+# 實例:顯示Data Error
 ![Data Error](https://github.com/NE0427/report2/assets/113665352/0390a2fb-6766-4426-a6fc-c2fe1ed6f542)
 
-#實例:顯示無實數解
+# 實例:顯示無實數解
 ![無實數解](https://github.com/NE0427/report2/assets/113665352/81aa8c78-9085-4c1a-86a7-dbfe513d2757)
 
-#實作介紹面(使用colaboratory)
+# 實作介紹面(使用colaboratory)
 ![code](https://github.com/NE0427/report2/assets/113665352/2a995e1e-0ebb-47cd-b518-87f49197115d)
